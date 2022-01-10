@@ -6,5 +6,5 @@
 - 😖 I just get confused while working.
 
 <!--- Bradenyolo is a mod worker; games and apps
-Br
----> are later years. Have a great day
+Games and apps come in
+---> later years. Have a great day
