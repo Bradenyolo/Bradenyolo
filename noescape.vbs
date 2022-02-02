@@ -1,1 +1,0 @@
-x=msgbox("You can't escape me. (:", 4+Icon, "Do you agree to this?")
