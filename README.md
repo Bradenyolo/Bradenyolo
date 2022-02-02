@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Bradenyolo
-- 👀 I’m interested in apps/games/mods
-- 🌱 I’m currently learning mods right now. Games and apps will be in the next 11 years
-- 💞️ I’m looking to collaborate on with help from other people
-- 📫 Still learning coding.
-- 😖 I just get confused while working.
-
-<!--- Bradenyolo is a mod worker; games and apps
-
---->Games and app come in later years. Have a great day
+Games and malware maker 
+I completety trying to improve on coding.
+email me: lebronbraden52@gmail.com
+Game showcases on my youtube channel: Bradenyolo
+also I have a gamejolt account, bradenyolo as well
+i think of games and just like to build it.
