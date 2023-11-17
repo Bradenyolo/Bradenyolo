@@ -1,5 +1,5 @@
 # About Bradenyolo
-A C# developer that creates random tools and viruses.
+A C#/Other developer that creates random tools and viruses.
 A random stupid idiot that is trying to learn tech 
 # My links & others
 Discord: removed it because it will
